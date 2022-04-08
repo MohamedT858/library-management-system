@@ -1,0 +1,49 @@
+C:\Users\mymym\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\mymym\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\mymym\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Form2.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.MainMenue.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Form3.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Members.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Stored_Books.resources
+C:\Users\mymym\source\repos\Library\Library\obj\Debug\Library.Erorr_Window.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.exe.config
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.exe
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.pdb
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csprojAssemblyReference.cache
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form2.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form1.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form3.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Erorr_Window.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.MainMenue.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Members.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Properties.Resources.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Stored_Books.resources
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.GenerateResource.cache
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.exe
+G:\محاضرات 3 نظم\database2\Library\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.pdb
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.exe.config
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.exe
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\bin\Debug\Library.pdb
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form2.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form1.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Form3.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Erorr_Window.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.MainMenue.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Members.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.Stored_Books.resources
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.exe
+C:\Users\Mohamed Tarek\Downloads\Mohamed Tarek Sobhy-Library DB-Sec1\Library DB-Mohamed Tarek Sobhy\Library\obj\Debug\Library.pdb
